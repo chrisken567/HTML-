@@ -1,33 +1,40 @@
-<ol>
-    <li>
-        life is wonderfull
-        <ol>
-            <li>
-                one would thing that you are special
-                <li>i personally have a few things to say though
-            </li>
-            </ol>
-            <li>
-                we are here on this fine day for on purpose
-            </li>
-        </ol>
-    </li>
-</ol>
-<hr>
-<h1><p> the story of me</p></h1>
-<hr>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+
+<h1>Hello Welcome To Blade Technologies</h1>
+<h2><p> The Story Of Me</p></h2>
+<hr/>
 <p>
-   i want everyone to know that i certified man in the ways of html and i love the fact that im able to code this.
-   Most people would give up on there dreams and waste their seventy-five winters,  summers,spings,and falls there whole life.
+   <h4>Here at Blade techologies we are a team of efficent, motivated,respectful and professional team of software endgineers, devolopers, graphcis desigher, Ux designers, Game devolopers and more.
    <hr>
-   Well im here to tell you that you dont have to all you have to do is lockin in on your goals and dreams. Manifest, dream and want your life to be better cause at the end of the day no one is gonna love you or your dreams like you will. This letter isnt just for me its also for you all out there who find this buried in the computer somewhere
+   <h5>Our team is here to specifically help you on all your technical needs wether it be simply technical literacy, or I.T support, maybe you were looking for a way expand a buisness and didnt have a proper anylst file your files correctly. Our staff is fully equipped to handle the needs of buisness from start up to small company standings. We are here to resure you that your technical problems will cease to exist</h5>
    <hr>
-   If im able to sit down and take the time i have here to write this out in vscode then ypu havce the time to focus on what makes you a better you remember life doesnt get easier<h3>YOU GET BETTER</h3>
+   <h3> Here are a few things that we as a team handle for our future clients!
+    <ul>
+        <Li>Data anylitics</Li>
+        <Li>I.T. support</Li>
+        <Li>Graphic designs</Li>
+        <Li>Ux designs</Li>
+        <Li>Software deveolpment</Li>
+        <Li>Cyber security</Li>
+    </ul>
+   </h3>
    <hr>
-   So in conclusion be you and stay safe oh one last piece of advice. Dont let anyone Stop you from seeing your vision come to life
+   CHECK OUT ONE OF OUR WEBSITES FOR ONE OF OUR CLIENTS 
 </p>
 <hr>
-<a href="https://nerdiboicommerce.bigcartel.com">nerdiboicommerce</a>
+<H1><a href="https://Nerdiboicommerce.bigcartel.com">NerdiBoiCommerce</a></H1>
 <p>ALSO check out my store i will be updating shortly so that i may be able to converse with you all more profesionally</p>
-<img src="https://i.pinimg.com/474x/9a/f4/32/9af432cb70554e0868ec4539d654dd1f.jpg">
-<p>see this photo i nver knew i could do this and now i can before you ask this very much a third party photo although once i get my drawing skils back this well be a piece of cake</p>
+<img src="https://i.pinimg.com/474x/9a/f4/32/9af432cb70554e0868ec4539d654dd1f.jpg"/>
+<h2><a href="./public/about.html">About Me</a>
+    <a href="./public/contact.html">Contact Me</a>
+</h2>
